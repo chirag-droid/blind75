@@ -3,7 +3,7 @@ A personal repo to keep track of my progress with leetcode questions.
 The questions are taken from [this blind post](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
 
 ### Array
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -66,7 +66,7 @@ The questions are taken from [this blind post](https://www.teamblind.com/post/Ne
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 
 ### String
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
