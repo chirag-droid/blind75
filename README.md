@@ -45,7 +45,7 @@ The questions are taken from [this blind post](https://www.teamblind.com/post/Ne
 - [ ] [Number of Connected Components in an Undirected Graph (Leetcode Premium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 
 ### Interval
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
