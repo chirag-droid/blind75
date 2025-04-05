@@ -12,7 +12,7 @@ The questions are taken from [this blind post](https://www.teamblind.com/post/Ne
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3sum](https://leetcode.com/problems/3sum/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ### Binary
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
