@@ -18,7 +18,7 @@ The questions are taken from [this blind post](https://www.teamblind.com/post/Ne
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [x] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ### Dynamic Programming
@@ -52,8 +52,8 @@ The questions are taken from [this blind post](https://www.teamblind.com/post/Ne
 - [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ### Linked List
-- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
